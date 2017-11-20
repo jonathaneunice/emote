@@ -1,5 +1,5 @@
 
-| |travisci| |version| |versions| |impls| |wheel| |coverage| |br-coverage|
+|  |version| |versions| |impls| |wheel|
 
 .. |version| image:: http://img.shields.io/pypi/v/emote.svg?style=flat
     :alt: PyPI Package latest release
